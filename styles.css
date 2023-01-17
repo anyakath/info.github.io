@@ -1,0 +1,74 @@
+.card {
+    width: 100%;
+    height: 40%;
+    padding: 2px;
+    background-color:#E8DED1;
+    opacity: 80%;
+    justify-content: center;
+    border-radius: 10px;
+} .card:hover {
+    background-color: "#E8DED1";
+    opacity: 100%;
+  }
+
+h1 {
+    color: #E8DED1;
+    font-family: Courier;
+    text-align: center;
+} .omb {
+    width: 100%;
+    height: 15%;
+    padding-bottom: 0px;
+} .me {
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+    margin-top: 0px;
+} .j {
+    height: 100px;
+    display: block;
+    padding-top: 1px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 90%;
+} 
+
+.panel {
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    
+    display: flex;
+}
+
+
+h5 {
+    font-family: Courier;
+    font-weight: 10;
+    font-size: 0.94vw;
+    
+}
+.container{
+    align-items: right;
+    
+    padding: 10px;
+    
+
+}
+body {
+    justify-content: space-around;
+    flex: 1;
+}
+.main {
+    height: 82%;
+    width: 98%;
+    flex: 1;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
